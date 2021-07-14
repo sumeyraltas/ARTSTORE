@@ -1,0 +1,14 @@
+h2{
+    color : rgb(73, 16, 100);
+    font-size : 25px; 
+    font: optional;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style:inherit ;
+
+}
+
+p{
+    color : red;
+    font-style: italic; /*Yorum satırı*/
+    font-family: 'Times New Roman', Times, serif;
+}
